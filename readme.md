@@ -29,8 +29,8 @@
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/></a>
-  <a href="https://kdenlive.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Kdenlive-logo.svg" alt="kdenlive" width="40" height="40"/></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/DaVinci_Resolve_17_logo.svg" alt="davinci resolve" width="40" height="40"/></a>
+  <code>Kdenlive</code>
+  <code>DaVinci Resolve</code>
 </p>
 
 ---
