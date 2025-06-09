@@ -30,11 +30,3 @@
   <code>Kdenlive</code>
   <code>DaVinci Resolve</code>
 </p>
-
----
-
-<h3 align="left">Fun (?) Facts</h3>
-
-- Write code → works → don't trust it → debug anyway  
-- “AI will take over” — meanwhile, I’m stuck tuning hyperparameters like it’s 2012  
-- Every side project ends in either burnout or a folder called `final_v8_real_last_THISONE.py`
