@@ -3,9 +3,7 @@
 
 - Currently wasting CPU cycles on **Python, C, AI/ML and pretending to know Java**
 - Sometimes I explain **DSA concepts** to a wall. The wall is now better than most juniors.
-- I break stuff just to Google how to fix it.
 - Reach me at: **rishabh223300@gmail.com**
-- Also edit videos, because why not turn mental breakdowns into motion graphics.
 
 ---
 
