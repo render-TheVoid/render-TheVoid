@@ -1,32 +1,56 @@
 <h1 align="center">yo, me is rishabh.</h1>
-<h3 align="center">just another computer science student who wants to kill himself.</h3>
+<h3 align="center">just another computer science student with chronic existential dread.</h3>
 
-- Currently wasting CPU cycles on **Python, C, AI/ML and pretending to know Java**
-- Sometimes I explain **DSA concepts** to a wall. The wall is now better than most juniors.
+- Writing **Python, C, JS, AI/ML** like it’ll one day debug my existence  
+- Sometimes I explain **DSA concepts** to a wall. The wall now clears FAANG interviews.  
 - Reach me at: **rishabh223300@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://instagram.com/couldbevoid" target="blank">Instagram</a> · 
-  <a href="https://www.youtube.com/@ryznae" target="blank">YouTube</a>
+  <a href="https://instagram.com/couldbevoid" target="_blank">Instagram</a> · 
+  <a href="https://www.youtube.com/@ryznae" target="_blank">YouTube</a>
 </p>
 
 ---
 
-<h3 align="left">Tech Stack (aka things I pretend to be good at)</h3>
+<h3 align="left">💻 Tech Stack (aka things I put on my resume and hope they don’t test me on)</h3>
+
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/></a>
-  <code>Kdenlive</code>
-  <code>DaVinci Resolve</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kdenlive-527ACC?style=for-the-badge&logo=kdenlive&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats (because why not)</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh223300&show_icons=true&theme=tokyonight" alt="Rishabh's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh223300&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Rishabh's Streak Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh223300&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
