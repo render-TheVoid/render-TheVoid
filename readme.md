@@ -38,6 +38,4 @@
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kdenlive-527ACC?style=for-the-badge&logo=kdenlive&logoColor=white"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh223300&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
