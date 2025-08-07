@@ -38,19 +38,6 @@
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kdenlive-527ACC?style=for-the-badge&logo=kdenlive&logoColor=white"/>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats (because why not)</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh223300&show_icons=true&theme=tokyonight" alt="Rishabh's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh223300&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Rishabh's Streak Stats" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh223300&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
