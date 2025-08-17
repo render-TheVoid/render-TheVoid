@@ -9,7 +9,7 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://instagram.com/couldbevoid" target="_blank">Instagram</a> · 
+  <a href="https://instagram.com/eschorishbh" target="_blank">Instagram</a> · 
   <a href="https://www.youtube.com/@ryznae" target="_blank">YouTube</a>
 </p>
 
