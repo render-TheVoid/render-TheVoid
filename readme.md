@@ -14,8 +14,8 @@ Building web apps, AI projects, and increasingly sophisticated ways to create bu
   <a href="https://github.com/render-thevoid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://rishaabbhh.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://rishabhh.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEgLTIgMmgtOGEyIDIgMCAwIDEgLTIgLTJ2LThhMiAyIDAgMCAxIDIgLTJoNiI+PC9wYXRoPjxwYXRoIGQ9Ik0xMSAxM2w5IC05Ij48L3BhdGg+PHBhdGggZD0iTTE1IDRoNXY1Ij48L3BhdGg+PC9zdmc+Cg==" />
   </a>
 </p>
 
