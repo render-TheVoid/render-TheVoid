@@ -20,9 +20,9 @@ Building web apps, AI projects, and increasingly sophisticated ways to create bu
 </p>
 
 ## About Me
-
 - Full-stack developer focused on **MERN**, **TypeScript**, and AI-powered applications. Most features eventually work.
 - Previously worked at **Walk Reward** and **RevLabz**, where my code was exposed to actual users and somehow survived.
+- Currently interning at **Decoders Entity**, contributing to client projects and hoping the message queues don't message back.
 - Built **KaushalAI**, won **Ideas to Impact 2026**, and briefly believed software engineering was easy.
 - Currently experimenting with **local LLMs**, AI products, and the thermal limits of consumer hardware.
 
