@@ -14,7 +14,7 @@ Building web apps, AI projects, and increasingly sophisticated ways to create bu
   <a href="https://github.com/render-thevoid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://rishabhh.is-a.dev">
+  <a href="https://rishabhh.is-a.dev" target="__blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
