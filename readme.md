@@ -1,70 +1,71 @@
-<h1 align="center">Hey, I'm Rishabh.</h1>
+### Hi there 👋, I am Rishabh
 
-<p align="center">
-Building web apps, AI projects, and increasingly sophisticated ways to create bugs.
-</p>
+I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning with a strong interest in Backend Engineering, AI Systems, and Cloud Technologies.
 
-<p align="center">
-  <a href="mailto:rishabh223300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rishabhh-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/render-thevoid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://rishabhh.is-a.dev" target="__blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+Experienced in developing full-stack applications using the MERN stack, designing secure REST APIs, implementing authentication systems, automating deployment pipelines, and integrating Large Language Models into production-ready applications. My notable work includes **LayerZero**, a hybrid AI document summarization platform, and **KaushalAI**, an award-winning AI-powered job marketplace.
 
-## About Me
-- Full-stack developer focused on **MERN**, **TypeScript**, and AI-powered applications. Most features eventually work.
-- Previously worked at **Walk Reward** and **RevLabz**, where my code was exposed to actual users and somehow survived.
-- Currently interning at **Decoders Entity**, contributing to client projects and hoping the message queues don't message back.
-- Built **KaushalAI**, won **Ideas to Impact 2026**, and briefly believed software engineering was easy.
-- Currently experimenting with **local LLMs**, AI products, and the thermal limits of consumer hardware.
+I enjoy building scalable software, experimenting with AI infrastructure, and continuously exploring modern technologies across software engineering, DevOps, and applied artificial intelligence.
+
+*  Currently building AI-powered applications and backend systems
+*  Learning more about AI Engineering, DevOps, and distributed systems
+*  Fun fact: Every architecture diagram is optimistic until production traffic arrives.
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-20232A?style=flat\&logo=tailwindcss\&logoColor=06B6D4)
+![Zustand](https://img.shields.io/badge/Zustand-1C1C1C?style=flat)
 
-### Backend
+### Backend & Security
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat\&logo=nodedotjs\&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-20232A?style=flat\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=flat)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-20232A?style=flat)
+![Auth0](https://img.shields.io/badge/Auth0-20232A?style=flat\&logo=auth0\&logoColor=EB5424)
 
-### AI / ML
+### Database
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat\&logo=mongodb\&logoColor=47A248)
 
-### DevOps & Deployment
+### AI & LLMs
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat\&logo=python\&logoColor=3776AB)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-20232A?style=flat\&logo=googlegemini\&logoColor=8E75B2)
+![Ollama](https://img.shields.io/badge/Ollama-20232A?style=flat)
+![Gemma](https://img.shields.io/badge/Gemma-20232A?style=flat)
+![GPT OSS](https://img.shields.io/badge/GPT_OSS-20232A?style=flat)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat\&logo=docker\&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat\&logo=githubactions\&logoColor=2088FF)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-20232A?style=flat\&logo=cloudflare\&logoColor=F38020)
+![Render](https://img.shields.io/badge/Render-20232A?style=flat\&logo=render\&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat\&logo=vercel\&logoColor=white)
 
 ### Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat\&logo=linux\&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat\&logo=postman\&logoColor=FF6C37)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-20232A?style=flat\&logo=googlechrome\&logoColor=4285F4)
 
-> _"Works on my machine" remains one of my most dangerous assumptions._
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Sharma-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rishabhh-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-render--thevoid-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/render-thevoid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rishabhh.is--a.dev-4285F4?style=flat\&logo=googlechrome\&logoColor=white)](https://rishabhh.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-rishabh223300%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:rishabh223300@gmail.com)
+
+> *"If it works on the first try, I immediately become suspicious."*
