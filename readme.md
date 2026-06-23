@@ -14,14 +14,6 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 
 ##  Tech Stack
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat\&logo=typescript\&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-20232A?style=flat\&logo=tailwindcss\&logoColor=06B6D4)
-![Zustand](https://img.shields.io/badge/Zustand-1C1C1C?style=flat)
-
 ### Backend & Security
 
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat\&logo=nodedotjs\&logoColor=339933)
@@ -30,6 +22,15 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ![JWT](https://img.shields.io/badge/JWT-20232A?style=flat\&logo=jsonwebtokens\&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-20232A?style=flat)
 ![Auth0](https://img.shields.io/badge/Auth0-20232A?style=flat\&logo=auth0\&logoColor=EB5424)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-20232A?style=flat\&logo=tailwindcss\&logoColor=06B6D4)
+![Zustand](https://img.shields.io/badge/Zustand-1C1C1C?style=flat)
+
 
 ### Database
 
@@ -46,6 +47,7 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=flat\&logo=docker\&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=DC382D)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat\&logo=githubactions\&logoColor=2088FF)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-20232A?style=flat\&logo=cloudflare\&logoColor=F38020)
 ![Render](https://img.shields.io/badge/Render-20232A?style=flat\&logo=render\&logoColor=46E3B7)
