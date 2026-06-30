@@ -23,6 +23,16 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-20232A?style=flat)
 ![Auth0](https://img.shields.io/badge/Auth0-20232A?style=flat\&logo=auth0\&logoColor=EB5424)
 
+### DevOps & Cloud
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-20232A?logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat\&logo=docker\&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=DC382D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat\&logo=githubactions\&logoColor=2088FF)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-20232A?style=flat\&logo=cloudflare\&logoColor=F38020)
+![Render](https://img.shields.io/badge/Render-20232A?style=flat\&logo=render\&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat\&logo=vercel\&logoColor=white)
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
@@ -44,14 +54,6 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ![Gemma](https://img.shields.io/badge/Gemma-20232A?style=flat)
 ![GPT OSS](https://img.shields.io/badge/GPT_OSS-20232A?style=flat)
 
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-20232A?style=flat\&logo=docker\&logoColor=2496ED)
-![Redis](https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=DC382D)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat\&logo=githubactions\&logoColor=2088FF)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-20232A?style=flat\&logo=cloudflare\&logoColor=F38020)
-![Render](https://img.shields.io/badge/Render-20232A?style=flat\&logo=render\&logoColor=46E3B7)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat\&logo=vercel\&logoColor=white)
 
 ### Tools
 
