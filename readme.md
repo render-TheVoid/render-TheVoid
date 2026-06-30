@@ -1,13 +1,11 @@
 ### Hi there 👋, I am Rishabh
 
-I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning with a strong interest in Backend Engineering, AI Systems, and Cloud Technologies.
+Backend Engineer with a strong interest in AI Systems and Cloud Technologies.
 
-Experienced in developing full-stack applications using the MERN stack, designing secure REST APIs, implementing authentication systems, automating deployment pipelines, and integrating Large Language Models into production-ready applications. My notable work includes **LayerZero**, a hybrid AI document summarization platform, and **KaushalAI**, an award-winning AI-powered job marketplace.
-
-I enjoy building scalable software, experimenting with AI infrastructure, and continuously exploring modern technologies across software engineering, DevOps, and applied artificial intelligence.
+Experienced in building full-stack applications using the MERN stack, designing secure REST APIs, implementing authentication systems, automating deployment pipelines, and integrating Large Language Models into production-ready applications. My notable work includes **LayerZero**, an AI document summarization platform deployed on AWS EC2 with Redis caching, and **KaushalAI**, an award-winning AI-powered job marketplace.
 
 *  Currently building AI-powered applications and backend systems
-*  Learning more about AI Engineering, DevOps, and distributed systems
+*  Learning more about AWS, distributed systems, and cloud infrastructure
 *  Fun fact: Every architecture diagram is optimistic until production traffic arrives.
 
 ---
@@ -31,7 +29,6 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat\&logo=githubactions\&logoColor=2088FF)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-20232A?style=flat\&logo=cloudflare\&logoColor=F38020)
 ![Render](https://img.shields.io/badge/Render-20232A?style=flat\&logo=render\&logoColor=46E3B7)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat\&logo=vercel\&logoColor=white)
 
 ### Frontend
 
@@ -51,8 +48,8 @@ I enjoy building scalable software, experimenting with AI infrastructure, and co
 ![Python](https://img.shields.io/badge/Python-20232A?style=flat\&logo=python\&logoColor=3776AB)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-20232A?style=flat\&logo=googlegemini\&logoColor=8E75B2)
 ![Ollama](https://img.shields.io/badge/Ollama-20232A?style=flat)
+![Cerebras](https://img.shields.io/badge/Cerebras-20232A?style=flat)
 ![Gemma](https://img.shields.io/badge/Gemma-20232A?style=flat)
-![GPT OSS](https://img.shields.io/badge/GPT_OSS-20232A?style=flat)
 
 
 ### Tools
